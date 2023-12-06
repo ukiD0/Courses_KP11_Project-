@@ -32,12 +32,12 @@ The page footer should always stick to the bottom of the page and never overlap 
 The page footer is required to inject the page JavaScript, show the reset user tours link and show user info and (if avaliable) the contents of the user configure theme custom menu.
 
 {{< example >}}
-<footer id="page-footer" class="py-3 bg-dark text-light">
+<!-- <footer id="page-footer" class="py-3 bg-dark text-light">
     <div class="container">
         <p class="helplink"><a href="#">Moodle docs for this page</a></p>
         You are logged in as <a href="#">Test User</a> (<a href="#">logout</a>)
         <a href="#">Home</a>
         <div class="tool_usertours-resettourcontainer"></div>
     </div>
-</footer>
+</footer> -->
 {{< /example >}}

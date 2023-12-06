@@ -120,7 +120,7 @@ Some example values include:
 If you wish to display a tour on the site home, you can use the value: "FRONTPAGE".';
 $string['placement'] = 'Placement';
 $string['pluginname'] = 'User tours';
-$string['resettouronpage'] = 'Reset user tour on this page';
+//$string['resettouronpage'] = 'Reset user tour on this page';
 $string['right'] = 'Right';
 $string['select_block'] = 'Select a block';
 $string['targettype_help'] = 'Each step is associated with a part of the page - the target. Target types are:

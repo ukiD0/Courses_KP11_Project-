@@ -19,7 +19,7 @@ $CFG->dboptions = array (
 );
 
 $CFG->wwwroot   = 'http://kp11courses';
-$CFG->dataroot  = 'C:\\OSPanel\domains\\moodledataa';
+$CFG->dataroot  = 'C:\\OSPanel\\domains\\kp11Courses\\moodledataa';
 $CFG->admin     = 'admin';
 
 $CFG->directorypermissions = 0777;

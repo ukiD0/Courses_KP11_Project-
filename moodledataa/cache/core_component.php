@@ -588,6 +588,7 @@ $cache = array (
     ),
     'local' => 
     array (
+      'pages' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages',
     ),
     'h5plib' => 
     array (
@@ -3964,6 +3965,11 @@ $cache = array (
     'gradingform_rubric\\privacy\\provider' => 'C:\\OSPanel\\domains\\kp11Courses/grade/grading/form/rubric/classes/privacy/provider.php',
     'h5plib_v124\\local\\library\\handler' => 'C:\\OSPanel\\domains\\kp11Courses/h5p/h5plib/v124/classes/local/library/handler.php',
     'h5plib_v124\\privacy\\provider' => 'C:\\OSPanel\\domains\\kp11Courses/h5p/h5plib/v124/classes/privacy/provider.php',
+    'local_pages\\custompage' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/classes/custompage.php',
+    'local_pages\\formhistory' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/classes/formhistory.php',
+    'local_pages\\privacy\\provider' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/classes/privacy/provider.php',
+    'local_pages_custompage' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/classes/custompage.php',
+    'local_pages_formhistory' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/classes/formhistory.php',
     'logstore_database\\helper' => 'C:\\OSPanel\\domains\\kp11Courses/admin/tool/log/store/database/classes/helper.php',
     'logstore_database\\log\\store' => 'C:\\OSPanel\\domains\\kp11Courses/admin/tool/log/store/database/classes/log/store.php',
     'logstore_database\\privacy\\provider' => 'C:\\OSPanel\\domains\\kp11Courses/admin/tool/log/store/database/classes/privacy/provider.php',
@@ -6421,6 +6427,7 @@ $cache = array (
       ),
       'local' => 
       array (
+        'pages' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/lib.php',
       ),
       'h5plib' => 
       array (
@@ -6787,6 +6794,7 @@ $cache = array (
       ),
       'local' => 
       array (
+        'pages' => 'C:\\OSPanel\\domains\\kp11Courses/local/pages/settings.php',
       ),
       'h5plib' => 
       array (

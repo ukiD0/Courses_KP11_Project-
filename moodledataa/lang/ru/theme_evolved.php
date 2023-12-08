@@ -35,5 +35,5 @@ $string['logo'] = 'Логотип';
 $string['marketingimage'] = 'Изображение';
 $string['marketingurltargetnew'] = 'Новая страница';
 $string['marketingurltargetself'] = 'Текущая страница';
-$string['mycourses'] = 'Мои курсы';
+$string['mycourses'] = 'Мои кружки';
 $string['mydashboard'] = 'Рабочий стол';

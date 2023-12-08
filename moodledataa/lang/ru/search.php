@@ -90,7 +90,7 @@ $string['invalidindexerror'] = 'Папка индекса содержит не 
 $string['ittook'] = 'Принято';
 $string['matchingfile'] = 'Совпадения из файла <span class="filename">{$a}</span>';
 $string['matchingfiles'] = 'Совпадения из файлов:';
-$string['mycoursesonly'] = 'Только мои курсы';
+$string['mycoursesonly'] = 'Только мои кружки';
 $string['next'] = 'Следующий';
 $string['noindexmessage'] = 'Администратор: Здесь нет поисковых индексов.';
 $string['noresults'] = 'Нет результатов';

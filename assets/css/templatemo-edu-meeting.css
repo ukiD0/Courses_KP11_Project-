@@ -211,7 +211,7 @@ header
 */
 
 .sub-header {
-  background-color: #1f272b;
+  background-color: #292929f5;
   position: relative;
   z-index: 1111;
 }
@@ -234,7 +234,7 @@ header
 
 .sub-header .right-icons ul li a {
   color: #fff;
-  font-size: 14px;
+  font-size: 17px;
   transition: all .3s;
 }
 
@@ -1294,6 +1294,12 @@ section.our-facts h2 {
     color: #f5a425;
     font-weight: 700;
     font-size: 36px;
+}
+.count-digit1 {
+  margin: 5px 0px;
+  color: #f5a425;
+  font-weight: 700;
+  font-size: 36px;
 }
 .count-title {
     font-size: 18px;
